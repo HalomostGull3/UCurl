@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694729178614",
+    "project_id": "ucurl-e6170",
+    "storage_bucket": "ucurl-e6170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694729178614:android:602e9c5cacb9971d089bd7",
+        "android_client_info": {
+          "package_name": "com.olympichalo.ucurl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGbAdkoNzn5WwWL7JfJSjbfA3e7iSpFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
