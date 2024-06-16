@@ -14,7 +14,16 @@
     "ios": {
       "supportsTablet": true,
       "googleServicesFile": "./GoogleService-Info.plist",
-      "bundleIdentifier": "com.olympichalo.ucurl"
+      "bundleIdentifier": "com.olympichalo.ucurl",
+      "infoPlist": {
+        "CFBundleURLTypes": [
+          {
+            "CFBundleURLTypes": [
+              "com.googleusercontent.apps.694729178614-i3fispn2ru4qsgrino8after9b69ubp2"
+            ]
+          }
+        ]
+      }
     },
     "android": {
       "adaptiveIcon": {
