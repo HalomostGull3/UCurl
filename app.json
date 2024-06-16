@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "UCurl",
-    "slug": "UCurl",
+    "slug": "ucurl",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +19,7 @@
         "CFBundleURLTypes": [
           {
             "CFBundleURLTypes": [
-              "com.googleusercontent.apps.694729178614-i3fispn2ru4qsgrino8after9b69ubp2"
+              "com.googleusercontent.apps.694729178614-06rt22ero8pvv22bmegahks3992ve0q3"
             ]
           }
         ]
@@ -46,6 +46,12 @@
           }
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "da8c5068-157e-4c4d-b75f-3b9b52e4110b"
+      }
+    },
+    "owner": "olympichalo"
   }
 }
