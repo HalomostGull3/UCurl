@@ -18,7 +18,7 @@
       "infoPlist": {
         "CFBundleURLTypes": [
           {
-            "CFBundleURLTypes": [
+            "CFBundleURLSchemes": [
               "com.googleusercontent.apps.694729178614-06rt22ero8pvv22bmegahks3992ve0q3"
             ]
           }
